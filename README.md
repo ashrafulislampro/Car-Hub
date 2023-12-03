@@ -1,6 +1,6 @@
 ## Car-Hub
 
-Open [Live Link](http://localhost:3000) with your browser to see the result.
+Open [Live Link](http://localhost:3000) with your browser to see the Project.
 
 <!-- First, run the development server:
 
